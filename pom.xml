@@ -38,7 +38,7 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>com.shiv.respberry.exp.sample.ListenGpioExample</mainClass>
+                        <mainClass>com.shiv.respberry.exp.sample.TriggerGpioExample</mainClass>
                         <classpathPrefix>dependency-jars/</classpathPrefix>
 
                     </manifest>
